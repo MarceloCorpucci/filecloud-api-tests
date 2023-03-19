@@ -1,0 +1,48 @@
+[
+  {
+    "userid": "Henderson Nakashima",
+    "groupname": "Accounting"
+  },{
+    "userid": "Biserka Wilkie",
+    "groupname": "Accounting"
+  }, {
+    "userid": "Giltbert Thatcher",
+    "groupname": "Accounting"
+  }, {
+    "userid": "Octavia Blanchard",
+    "groupname": "Accounting"
+  }, {
+    "userid": "Dawid Morel",
+    "groupname": "Accounting"
+  }, {
+    "userid": "Zulfikar Aafjes",
+    "groupname": "Operations"
+  }, {
+    "userid": "Vlasi Szilagyi",
+    "groupname": "Operations"
+  }, {
+    "userid": "Madelyn Donne",
+    "groupname": "Operations"
+  }, {
+    "userid": "Sule Zima",
+    "groupname": "Operations"
+  }, {
+    "userid": "Rehema Barr",
+    "groupname": "Operations"
+  }, {
+    "userid": "Awee Murdoch",
+    "groupname": "Engineering"
+  }, {
+    "userid": "Tsholofelo Boer",
+    "groupname": "Engineering"
+  }, {
+    "userid": "Mari Winthrop",
+    "groupname": "Engineering"
+  }, {
+    "userid": "Dragoslav Echevarria",
+    "groupname": "Consultants"
+  }, {
+    "userid": "Kaley Petrov",
+    "groupname": "Consultants"
+  }
+]
